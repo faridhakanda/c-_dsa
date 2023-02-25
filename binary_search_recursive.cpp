@@ -35,6 +35,8 @@ int binary_search_recursive(int A[], int low, int high, int target) {
 int main() {
     int A[] = {3, 10, 1, 2, 4, 8, 9, 5, 77, 6, 13, 51};
     int i, target, n = 12;
+    
+    cout<<m<<endl;
     insertion_sort(A, n);
     for (i = 0; i < n; i++) {
         cout<<A[i]<<" ";

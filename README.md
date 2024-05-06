@@ -8,6 +8,10 @@
 |   3|Linked list|
 |   4|Heap|
 |   5|Hash Table|
+|   6|Graph|
+|   7|Tries|
+|   8|Trees|
+|   9|DSU|
 
 ### Algorithms
 |No| Name|
@@ -17,3 +21,7 @@
 |   3|BFS|
 |   4|DFS|
 |   5|Dijkstra|
+|   6|Prim|
+|   7|Kruskal|
+|   8|Dynamic Programming|
+|   9|Bit Manipulation|

@@ -1,7 +1,7 @@
 ## Here is implement data structures and algorithms using cpp language
 ### C++ is important for competitive programming and other core level of programming
 ## Data Structures
-|Data structure list|
+|Data structure| list|
 |----:|----|
 |   1|Stack|
 |   2|Queue|
@@ -10,7 +10,7 @@
 |   5|Hash Table|
 
 ## Algorithms
-|Algorithms list   |
+|Algorithms| list   |
 |----:|-------|
 |   1|Sorting|
 |   2|Searching|

@@ -8,6 +8,7 @@
 |   5|Hash Table|
 
 ## Algorithms
+|----:|-------|
 |   1|Sorting|
 |   2|Searching|
 |   3|BFS|
